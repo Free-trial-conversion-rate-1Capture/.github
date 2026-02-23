@@ -32,7 +32,6 @@ Follow these 4 simple steps to claim your startup pricing and eliminate transact
 
 **Step 2:** Click on the **Pricing** tab from the top bar to view their MRR-based flat billing tiers.
 
-![Select a plan](image_pricing.png)
 
 **Step 3:** Now, **create your 1Capture account** by entering your email ID.
 
@@ -57,7 +56,7 @@ If you are not seeing the correct MRR tier reflected in your billing, follow the
 
 Unlike competitors that charge a percentage of your total volume, 1Capture uses transparent, flat monthly tiers based on your MRR. You get every feature on every plan, meaning you have full access to all the tools required to lift your free trial conversion rate, with zero transaction fees.
 
-[![1Capture pricing](https://raw.githubusercontent.com/Free-trial-conversion-rate-1Capture/.github/refs/heads/main/1capturef2.png)](https://www.1capture.io/pricing)
+[![1Capture pricing](https://raw.githubusercontent.com/Free-trial-conversion-rate-1Capture/.github/refs/heads/main/1capturef5.png)](https://www.1capture.io/pricing)
 
 | Plan Type (Based on MRR) | Flat Monthly Fee | Included Features |
 | --- | --- | --- |
