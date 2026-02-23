@@ -13,13 +13,13 @@ We brought you verified [1Capture coupons](https://www.1capture.com/) for founde
 
 [**Scale without per-transaction fees**](https://www.1capture.com/) using 1Capture's flat-tier pricing model. Unlike legacy billing platforms that take a percentage of your revenue when you successfully improve your free trial conversion rate, 1Capture lets you keep every extra dollar you generate.
 
-[![Claim This Discount](image_cta.png)](https://www.1capture.com/)
+[![Claim This Discount](https://raw.githubusercontent.com/Free-trial-conversion-rate-1Capture/.github/refs/heads/main/1capturef1.png)](https://www.1capture.io)
 
 ## 1Capture Promo Code: Automate Your Trial Conversions
 
 [**Activate your 1Capture account**](https://www.1capture.com/) and deploy GPT-5 optimization across your trial flows in under 5 minutes. By automating A/B testing and smart payment capture, 1Capture acts as a dedicated CRO team, automatically working to lift your free trial conversion rate while you focus on building your product.
 
-[![Claim This Discount](image_cta.png)](https://www.1capture.com/)
+[![Claim This Discount](https://raw.githubusercontent.com/Free-trial-conversion-rate-1Capture/.github/refs/heads/main/1capturef1.png)](https://www.1capture.io)
 
 ## How to Apply the 1Capture Coupon Code?
 
@@ -27,7 +27,8 @@ Follow these 4 simple steps to claim your startup pricing and eliminate transact
 
 **Step 1:** Visit the **1Capture official website** with this [**discount link**](https://www.1capture.com/).
 
-![1Capture official website](image_homepage.png)
+
+[![1Capture official website](https://raw.githubusercontent.com/Free-trial-conversion-rate-1Capture/.github/refs/heads/main/1capturef2.png)](https://www.1capture.io)
 
 **Step 2:** Click on the **Pricing** tab from the top bar to view their MRR-based flat billing tiers.
 
@@ -35,7 +36,7 @@ Follow these 4 simple steps to claim your startup pricing and eliminate transact
 
 **Step 3:** Now, **create your 1Capture account** by entering your email ID.
 
-![Sign up](image_signup.png)
+[![Sign up](https://raw.githubusercontent.com/Free-trial-conversion-rate-1Capture/.github/refs/heads/main/1capturef3.png)](https://www.1capture.io/pricing)
 
 **Tip:** Your account automatically unlocks all premium features—including the exact AI tools needed to double your free trial conversion rate—regardless of your MRR tier.
 
@@ -56,7 +57,7 @@ If you are not seeing the correct MRR tier reflected in your billing, follow the
 
 Unlike competitors that charge a percentage of your total volume, 1Capture uses transparent, flat monthly tiers based on your MRR. You get every feature on every plan, meaning you have full access to all the tools required to lift your free trial conversion rate, with zero transaction fees.
 
-![1Capture pricing](image_pricing_table.png)
+[![1Capture pricing](https://raw.githubusercontent.com/Free-trial-conversion-rate-1Capture/.github/refs/heads/main/1capturef2.png)](https://www.1capture.io/pricing)
 
 | Plan Type (Based on MRR) | Flat Monthly Fee | Included Features |
 | --- | --- | --- |
@@ -120,7 +121,7 @@ If your SaaS is experiencing a bottleneck in turning free users into paid subscr
 
 If you want a powerful, AI-driven platform that actually acts as an autopilot for your funnel, 1Capture is a top-tier choice. With their predictable MRR-based pricing, you never lose a percentage of your revenue to transaction fees when your free trial conversion rate inevitably goes up. Grab your $1/month access if you have MRR under $5k, and take advantage of their automated optimization to scale your SaaS securely.
 
-[![Claim This Discount](image_cta.png)](https://www.1capture.com/)
+[![Claim This Discount](https://raw.githubusercontent.com/Free-trial-conversion-rate-1Capture/.github/refs/heads/main/1capturef1.png)](https://www.1capture.io)
 
 Create your account, integrate the platform, and start converting more trials faster and smarter.
 
