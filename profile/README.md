@@ -6,7 +6,8 @@ We brought you verified [1Capture coupons](https://www.1capture.com/) for founde
 [**Get started for $1/mo**](https://www.1capture.com/) if your startup is under $5k in Monthly Recurring Revenue (MRR). This tier acts as the ultimate entry point to test 1Capture's trial-to-paid optimization tools, giving early-stage teams the power to maximize their free trial conversion rate for the price of a coffee.
 
 
-[![Claim This Discount](https://raw.githubusercontent.com/Saas-Growth-Hacks-1Capture/.github/refs/heads/main/1capturef1.png)](https://www.1capture.io)
+[![Claim This Discount](https://raw.githubusercontent.com/Free-trial-conversion-rate-1Capture/.github/refs/heads/main/1capturef1.png)](https://www.1capture.io)
+
 
 ## Keep 100% of Your Revenue With 1Capture
 
