@@ -32,6 +32,7 @@ Follow these 4 simple steps to claim your startup pricing and eliminate transact
 
 **Step 2:** Click on the **Pricing** tab from the top bar to view their MRR-based flat billing tiers.
 
+[![1Capture pricing](https://raw.githubusercontent.com/Free-trial-conversion-rate-1Capture/.github/refs/heads/main/1capturef3.png)](https://www.1capture.io/pricing)
 
 **Step 3:** Now, **create your 1Capture account** by entering your email ID.
 
