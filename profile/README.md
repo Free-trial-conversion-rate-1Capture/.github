@@ -36,7 +36,7 @@ Follow these 4 simple steps to claim your startup pricing and eliminate transact
 
 **Step 3:** Now, **create your 1Capture account** by entering your email ID.
 
-[![Sign up](https://raw.githubusercontent.com/Free-trial-conversion-rate-1Capture/.github/refs/heads/main/1capturef3.png)](https://www.1capture.io/pricing)
+[![Sign up](https://raw.githubusercontent.com/Free-trial-conversion-rate-1Capture/.github/refs/heads/main/1capturef4.png)](https://app.1capture.io/signup)
 
 **Tip:** Your account automatically unlocks all premium features—including the exact AI tools needed to double your free trial conversion rate—regardless of your MRR tier.
 
